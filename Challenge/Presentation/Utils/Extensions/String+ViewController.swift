@@ -1,0 +1,18 @@
+//
+//  String+ViewController.swift
+//  Challenge
+//
+//  Created by Everis on 25/08/21.
+//
+
+import Foundation
+
+extension String {
+    
+    func localized() -> String {
+        return NSLocalizedString(self,
+                                 value: "",
+                                 comment: "")
+    }
+    
+}

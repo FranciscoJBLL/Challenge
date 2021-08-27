@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Challenge
+
+  Created by Everis on 25/08/21.
+  
+*/
+
+"titleHome" = "Superhero App";
+"height" = "Height:";
+"weight" = "Weight:";
